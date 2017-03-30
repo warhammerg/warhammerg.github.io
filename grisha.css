@@ -1,0 +1,14 @@
+ body  { 
+     background-image: url("     http://vignette2.wikia.nocookie.net/waha/images/a/a3/Empire_1_.jpg/revision/latest?cb=20110408192344&path-prefix=ru") ;  
+     background-size: cover; 
+     background-attachment: fixed; 
+     color: #FFFFE0
+ } 
+ div.senter {
+     margin: 50px 
+    
+ }
+ h1 {
+     color:#FFD700
+ }
+ 
